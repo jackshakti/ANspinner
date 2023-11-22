@@ -1,0 +1,1900 @@
+{
+  "district": [
+    {
+      "name": "South Andaman",
+      "id": 1,
+      "tehsil": [
+        {
+          "name": "Port Blair",
+          "id": 1,
+          "village": [
+            {
+              "name": "Anarkali",
+              "id": 2
+            },
+            {
+              "name": "Austinabad",
+              "id": 3
+            },
+            {
+              "name": "Beodnabad",
+              "id": 4
+            },
+            {
+              "name": "Bharatpur",
+              "id": 5
+            },
+            {
+              "name": "Bimilitan",
+              "id": 6
+            },
+            {
+              "name": "Brichgunj",
+              "id": 7
+            },
+            {
+              "name": "Brookshabad",
+              "id": 8
+            },
+            {
+              "name": "Buniyadabad",
+              "id": 9
+            },
+            {
+              "name": "Calicut",
+              "id": 10
+            },
+            {
+              "name": "Carbyn Cove",
+              "id": 11
+            },
+            {
+              "name": "Chidiyatapu",
+              "id": 12
+            },
+            {
+              "name": "Dignabad",
+              "id": 13
+            },
+            {
+              "name": "Dollygunj",
+              "id": 14
+            },
+            {
+              "name": "Dudh Line",
+              "id": 15
+            },
+            {
+              "name": "Garacharma",
+              "id": 16
+            },
+            {
+              "name": "Good Will Estate",
+              "id": 17
+            },
+            {
+              "name": "Govinda Nagar",
+              "id": 18
+            },
+            {
+              "name": "Haddo",
+              "id": 19
+            },
+            {
+              "name": "Junglighat",
+              "id": 20
+            },
+            {
+              "name": "Krishna Nagar",
+              "id": 21
+            },
+            {
+              "name": "Lakshmanpur",
+              "id": 22
+            },
+            {
+              "name": "Lamba line",
+              "id": 23
+            },
+            {
+              "name": "Megapode",
+              "id": 24
+            },
+            {
+              "name": "Minnie Bay",
+              "id": 25
+            },
+            {
+              "name": "Mohanpura",
+              "id": 26
+            },
+            {
+              "name": "Nayagaon",
+              "id": 27
+            },
+            {
+              "name": "Neil Kendra",
+              "id": 28
+            },
+            {
+              "name": "Pahargaon",
+              "id": 29
+            },
+            {
+              "name": "Phoenix Bay",
+              "id": 30
+            },
+            {
+              "name": "Prothrapur",
+              "id": 31
+            },
+            {
+              "name": "Radha Nagar",
+              "id": 32
+            },
+            {
+              "name": "Ram Nagar",
+              "id": 33
+            },
+            {
+              "name": "Rangachang",
+              "id": 34
+            },
+            {
+              "name": "Rut land",
+              "id": 35
+            },
+            {
+              "name": "School Line",
+              "id": 36
+            },
+            {
+              "name": "Shadipur",
+              "id": 37
+            },
+            {
+              "name": "Shyam Nagar",
+              "id": 38
+            },
+            {
+              "name": "Sippighat",
+              "id": 39
+            },
+            {
+              "name": "Sitapur",
+              "id": 40
+            },
+            {
+              "name": "South Point",
+              "id": 41
+            },
+            {
+              "name": "Teylorabad",
+              "id": 42
+            },
+            {
+              "name": "Vijay Nagar",
+              "id": 43
+            }
+          ]
+        },
+        {
+          "name": "Ferrargunj",
+          "id": 2,
+          "village": [
+            {
+              "name": "Alipur",
+              "id": 44
+            },
+            {
+              "name": "Aniket",
+              "id": 45
+            },
+            {
+              "name": "Badmash Pahar",
+              "id": 46
+            },
+            {
+              "name": "Balughat",
+              "id": 47
+            },
+            {
+              "name": "Bambooflat",
+              "id": 48
+            },
+            {
+              "name": "Brindaban",
+              "id": 49
+            },
+            {
+              "name": "Caddlegunj",
+              "id": 50
+            },
+            {
+              "name": "Chirka Bad",
+              "id": 51
+            },
+            {
+              "name": "Chouldari",
+              "id": 52
+            },
+            {
+              "name": "Collinpur",
+              "id": 53
+            },
+            {
+              "name": "Dhanikhari",
+              "id": 54
+            },
+            {
+              "name": "Dundas Point",
+              "id": 55
+            },
+            {
+              "name": "Ferrargunj",
+              "id": 56
+            },
+            {
+              "name": "Flat Bay",
+              "id": 57
+            },
+            {
+              "name": "Govindapuram",
+              "id": 58
+            },
+            {
+              "name": "Guptapara",
+              "id": 59
+            },
+            {
+              "name": "Habdypur",
+              "id": 60
+            },
+            {
+              "name": "Hasmatabad",
+              "id": 61
+            },
+            {
+              "name": "Herparatbad",
+              "id": 62
+            },
+            {
+              "name": "Hope Town",
+              "id": 63
+            },
+            {
+              "name": "Humfrygunj",
+              "id": 64
+            },
+            {
+              "name": "Jirkatang",
+              "id": 65
+            },
+            {
+              "name": "Kadakachang",
+              "id": 66
+            },
+            {
+              "name": "Kalatang",
+              "id": 67
+            },
+            {
+              "name": "Kanyapuram",
+              "id": 68
+            },
+            {
+              "name": "Madhuban",
+              "id": 69
+            },
+            {
+              "name": "Malapuram",
+              "id": 70
+            },
+            {
+              "name": "Manglutan",
+              "id": 71
+            },
+            {
+              "name": "Manjery",
+              "id": 72
+            },
+            {
+              "name": "Mannarghat",
+              "id": 73
+            },
+            {
+              "name": "Manpur",
+              "id": 74
+            },
+            {
+              "name": "Mathura",
+              "id": 75
+            },
+            {
+              "name": "Maymyo",
+              "id": 76
+            },
+            {
+              "name": "Mile Tilek",
+              "id": 77
+            },
+            {
+              "name": "Mithakhari",
+              "id": 78
+            },
+            {
+              "name": "Mohwa Dera",
+              "id": 79
+            },
+            {
+              "name": "Mount Harriet",
+              "id": 80
+            },
+            {
+              "name": "Muslim Basti",
+              "id": 81
+            },
+            {
+              "name": "Namunaghar",
+              "id": 82
+            },
+            {
+              "name": "Nayasaher",
+              "id": 83
+            },
+            {
+              "name": "North Bay",
+              "id": 84
+            },
+            {
+              "name": "Ograbraij",
+              "id": 85
+            },
+            {
+              "name": "Port Mount",
+              "id": 86
+            },
+            {
+              "name": "Shoal Bay",
+              "id": 87
+            },
+            {
+              "name": "Shore Point",
+              "id": 88
+            },
+            {
+              "name": "Stewart Gunj",
+              "id": 89
+            },
+            {
+              "name": "Temple Myo",
+              "id": 90
+            },
+            {
+              "name": "Tirur",
+              "id": 91
+            },
+            {
+              "name": "Tushnabad",
+              "id": 92
+            },
+            {
+              "name": "Viper Island",
+              "id": 93
+            },
+            {
+              "name": "Wandoor",
+              "id": 94
+            },
+            {
+              "name": "Wimberlygunj",
+              "id": 95
+            },
+            {
+              "name": "Wright Myo",
+              "id": 96
+            }
+          ]
+        },
+        {
+          "name": "Little Andaman",
+          "id": 3,
+          "village": [
+            {
+              "name": "Butler Bay Forest Camp 4-I (FDCA)",
+              "id": 97
+            },
+            {
+              "name": "Butler Bay Forest Camp 4-II (FDCA)",
+              "id": 98
+            },
+            {
+              "name": "Butler Bay Forest Camp 4-III (FDCA)",
+              "id": 99
+            },
+            {
+              "name": "Butler Bay Forest Camp 4-IV (FDCA)",
+              "id": 100
+            },
+            {
+              "name": "Dugong Creek (OS)",
+              "id": 101
+            },
+            {
+              "name": "Forest Camp at 14 Km 5 - I (FDCA)",
+              "id": 102
+            },
+            {
+              "name": "Forest Camp at 14 km. 5-II (FDCA)",
+              "id": 103
+            },
+            {
+              "name": "Forest Camp at 14 km. 5-III (FDCA)",
+              "id": 104
+            },
+            {
+              "name": "Forest Camp at 19 km. (FDCA)",
+              "id": 105
+            },
+            {
+              "name": "Harmender Bay (NS)",
+              "id": 106
+            },
+            {
+              "name": "Hut Bay (RV)",
+              "id": 107
+            },
+            {
+              "name": "Little Andaman",
+              "id": 108
+            },
+            {
+              "name": "M/s Asia and Company (Asia Timber Product)",
+              "id": 109
+            },
+            {
+              "name": "Netaji Nagar (RV)",
+              "id": 110
+            },
+            {
+              "name": "Rabindra Nagar (RV)",
+              "id": 111
+            },
+            {
+              "name": "Ramakrishna Nagar",
+              "id": 112
+            },
+            {
+              "name": "Ramakrishnapur (RV)",
+              "id": 113
+            },
+            {
+              "name": "Red Oil Palm (Nursery Camp)",
+              "id": 114
+            },
+            {
+              "name": "South Bay (Light House Camp)",
+              "id": 115
+            },
+            {
+              "name": "South Bay (OS)",
+              "id": 116
+            },
+            {
+              "name": "Vivekanandapuram (RV)",
+              "id": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "North and Middle Andaman",
+      "id": 2,
+      "tehsil": [
+        {
+          "name": "Diglipur",
+          "id": 4,
+          "village": [
+            {
+              "name": "Aerial Bay",
+              "id": 118
+            },
+            {
+              "name": "Deshbandhugram",
+              "id": 119
+            },
+            {
+              "name": "Diglipur",
+              "id": 120
+            },
+            {
+              "name": "Durgapur",
+              "id": 121
+            },
+            {
+              "name": "Gandhi Nagar",
+              "id": 122
+            },
+            {
+              "name": "Ganesh Nagar",
+              "id": 123
+            },
+            {
+              "name": "Jagannath Dera",
+              "id": 124
+            },
+            {
+              "name": "Kalighat",
+              "id": 125
+            },
+            {
+              "name": "Kalipur",
+              "id": 126
+            },
+            {
+              "name": "Keralapuram",
+              "id": 127
+            },
+            {
+              "name": "Khudirampur",
+              "id": 128
+            },
+            {
+              "name": "Kishori Nagar",
+              "id": 129
+            },
+            {
+              "name": "Krishnapuri",
+              "id": 130
+            },
+            {
+              "name": "Laxmipur",
+              "id": 131
+            },
+            {
+              "name": "Madhupur",
+              "id": 132
+            },
+            {
+              "name": "Madhyamgram",
+              "id": 133
+            },
+            {
+              "name": "Milangram",
+              "id": 134
+            },
+            {
+              "name": "Nabagram",
+              "id": 135
+            },
+            {
+              "name": "Nischintapur",
+              "id": 136
+            },
+            {
+              "name": "Parangara",
+              "id": 137
+            },
+            {
+              "name": "Paschimsagar",
+              "id": 138
+            },
+            {
+              "name": "Rabindrapally",
+              "id": 139
+            },
+            {
+              "name": "Radha Nagar",
+              "id": 140
+            },
+            {
+              "name": "Ramakrishnagram",
+              "id": 141
+            },
+            {
+              "name": "Ramnagar",
+              "id": 142
+            },
+            {
+              "name": "Sagar Dweep",
+              "id": 143
+            },
+            {
+              "name": "Shanti Nagar",
+              "id": 144
+            },
+            {
+              "name": "Shibpur",
+              "id": 145
+            },
+            {
+              "name": "Shyam Nagar  ",
+              "id": 146
+            },
+            {
+              "name": "Sitanagar",
+              "id": 147
+            },
+            {
+              "name": "Subhashgram",
+              "id": 148
+            },
+            {
+              "name": "Swarajgram",
+              "id": 149
+            },
+            {
+              "name": "Vidyasagarpalli",
+              "id": 150
+            }
+          ]
+        },
+        {
+          "name": "Mayabunder",
+          "id": 5,
+          "village": [
+            {
+              "name": "Aves Island",
+              "id": 151
+            },
+            {
+              "name": "Basantipur",
+              "id": 152
+            },
+            {
+              "name": "Borang",
+              "id": 153
+            },
+            {
+              "name": "Chainpur",
+              "id": 154
+            },
+            {
+              "name": "Danapur",
+              "id": 155
+            },
+            {
+              "name": "Devpur",
+              "id": 156
+            },
+            {
+              "name": "Dukennagar",
+              "id": 157
+            },
+            {
+              "name": "Govindpur",
+              "id": 158
+            },
+            {
+              "name": "Hanspuri",
+              "id": 159
+            },
+            {
+              "name": "Harinagar",
+              "id": 160
+            },
+            {
+              "name": "Jaipur",
+              "id": 161
+            },
+            {
+              "name": "Kamalapur",
+              "id": 162
+            },
+            {
+              "name": "Karmatang",
+              "id": 163
+            },
+            {
+              "name": "Lataw",
+              "id": 164
+            },
+            {
+              "name": "Lucknow",
+              "id": 165
+            },
+            {
+              "name": "Mayabunder",
+              "id": 166
+            },
+            {
+              "name": "Mohanpur",
+              "id": 167
+            },
+            {
+              "name": "Pahalgaon",
+              "id": 168
+            },
+            {
+              "name": "Paresh Nagar",
+              "id": 169
+            },
+            {
+              "name": "Pinakinagar",
+              "id": 170
+            },
+            {
+              "name": "Pokkadera",
+              "id": 171
+            },
+            {
+              "name": "Profullya Nagar",
+              "id": 172
+            },
+            {
+              "name": "Pudumadurai",
+              "id": 173
+            },
+            {
+              "name": "Rampur",
+              "id": 174
+            },
+            {
+              "name": "Santipur",
+              "id": 175
+            },
+            {
+              "name": "Swadesh Nagar",
+              "id": 176
+            },
+            {
+              "name": "Tugapur",
+              "id": 177
+            },
+            {
+              "name": "Webi",
+              "id": 178
+            }
+          ]
+        },
+        {
+          "name": "Rangat",
+          "id": 6,
+          "village": [
+            {
+              "name": "Abaygarh",
+              "id": 179
+            },
+            {
+              "name": "Adojig",
+              "id": 180
+            },
+            {
+              "name": "Amkunj",
+              "id": 181
+            },
+            {
+              "name": "Bakultala",
+              "id": 182
+            },
+            {
+              "name": "Bangaon",
+              "id": 183
+            },
+            {
+              "name": "Bejoygarh",
+              "id": 184
+            },
+            {
+              "name": "Bharatpur",
+              "id": 185
+            },
+            {
+              "name": "Desharatpur",
+              "id": 186
+            },
+            {
+              "name": "Dharmapur",
+              "id": 187
+            },
+            {
+              "name": "Janakpur",
+              "id": 188
+            },
+            {
+              "name": "Kadamtala",
+              "id": 189
+            },
+            {
+              "name": "Kalsi",
+              "id": 190
+            },
+            {
+              "name": "Kanchangarh",
+              "id": 191
+            },
+            {
+              "name": "Kaushalyanagar",
+              "id": 192
+            },
+            {
+              "name": "Laxmanpur",
+              "id": 193
+            },
+            {
+              "name": "Long Island",
+              "id": 194
+            },
+            {
+              "name": "Mithila",
+              "id": 195
+            },
+            {
+              "name": "Nayagarh",
+              "id": 196
+            },
+            {
+              "name": "Nilambur",
+              "id": 197
+            },
+            {
+              "name": "Nimbutala",
+              "id": 198
+            },
+            {
+              "name": "Padmanabhapuram",
+              "id": 199
+            },
+            {
+              "name": "Panchawati",
+              "id": 200
+            },
+            {
+              "name": "Parnasala",
+              "id": 201
+            },
+            {
+              "name": "Raglachang",
+              "id": 202
+            },
+            {
+              "name": "Rajatgarh",
+              "id": 203
+            },
+            {
+              "name": "Ramachandra Nagar",
+              "id": 204
+            },
+            {
+              "name": "Rampur",
+              "id": 205
+            },
+            {
+              "name": "Rangat",
+              "id": 206
+            },
+            {
+              "name": "Sabari",
+              "id": 207
+            },
+            {
+              "name": "Saktigarh",
+              "id": 208
+            },
+            {
+              "name": "Santanu",
+              "id": 209
+            },
+            {
+              "name": "Shivapuram",
+              "id": 210
+            },
+            {
+              "name": "Shyamkund",
+              "id": 211
+            },
+            {
+              "name": "Sitapur",
+              "id": 212
+            },
+            {
+              "name": "Sundergarh",
+              "id": 213
+            },
+            {
+              "name": "Thiruvanchikulam",
+              "id": 214
+            },
+            {
+              "name": "Udhaygarh",
+              "id": 215
+            },
+            {
+              "name": "Urmilapur",
+              "id": 216
+            },
+            {
+              "name": "Uttara",
+              "id": 217
+            },
+            {
+              "name": "Vishnupur",
+              "id": 218
+            },
+            {
+              "name": "Wrafters Creek",
+              "id": 219
+            },
+            {
+              "name": "Yeratiljig",
+              "id": 220
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nicobar",
+      "id": 3,
+      "tehsil": [
+        {
+          "name": "Car Nicobar",
+          "id": 7,
+          "village": [
+            {
+              "name": "Arong",
+              "id": 221
+            },
+            {
+              "name": "Babulane",
+              "id": 222
+            },
+            {
+              "name": "Bada Enaka",
+              "id": 223
+            },
+            {
+              "name": "Baloo Basthi",
+              "id": 224
+            },
+            {
+              "name": "Big Lapati",
+              "id": 225
+            },
+            {
+              "name": "Car Nicobar",
+              "id": 226
+            },
+            {
+              "name": "Chingam Basti",
+              "id": 227
+            },
+            {
+              "name": "Chota Enaka",
+              "id": 228
+            },
+            {
+              "name": "Chowra",
+              "id": 229
+            },
+            {
+              "name": "Chuckchucha",
+              "id": 230
+            },
+            {
+              "name": "DSS Colony",
+              "id": 231
+            },
+            {
+              "name": "IAF Camp",
+              "id": 232
+            },
+            {
+              "name": "Kakana",
+              "id": 233
+            },
+            {
+              "name": "Kimois",
+              "id": 234
+            },
+            {
+              "name": "Kinmai",
+              "id": 235
+            },
+            {
+              "name": "Kinyuka",
+              "id": 236
+            },
+            {
+              "name": "Malacca",
+              "id": 237
+            },
+            {
+              "name": "Marine Colony",
+              "id": 238
+            },
+            {
+              "name": "Mus",
+              "id": 239
+            },
+            {
+              "name": "New Fishermen Colony",
+              "id": 240
+            },
+            {
+              "name": "Perka",
+              "id": 241
+            },
+            {
+              "name": "Phillow Bhabhi",
+              "id": 242
+            },
+            {
+              "name": "Rajiv Nagar",
+              "id": 243
+            },
+            {
+              "name": "Sawai",
+              "id": 244
+            },
+            {
+              "name": "Small Lapati",
+              "id": 245
+            },
+            {
+              "name": "Tamaloo",
+              "id": 246
+            },
+            {
+              "name": "Tapoiming",
+              "id": 247
+            },
+            {
+              "name": "Teetop",
+              "id": 248
+            }
+          ]
+        },
+        {
+          "name": "Great Nicobar",
+          "id": 8,
+          "village": [
+            {
+              "name": "27.9 km-A",
+              "id": 249
+            },
+            {
+              "name": "7 km Farm",
+              "id": 250
+            },
+            {
+              "name": "Afra Bay",
+              "id": 251
+            },
+            {
+              "name": "Akupa",
+              "id": 252
+            },
+            {
+              "name": "Alexandera River",
+              "id": 253
+            },
+            {
+              "name": "Anul/Anula",
+              "id": 254
+            },
+            {
+              "name": "Ayouk",
+              "id": 255
+            },
+            {
+              "name": "Babulane",
+              "id": 256
+            },
+            {
+              "name": "Bada Enaka",
+              "id": 257
+            },
+            {
+              "name": "Bahua",
+              "id": 258
+            },
+            {
+              "name": "Baloo Basthi",
+              "id": 259
+            },
+            {
+              "name": "Bewai/Kuwak",
+              "id": 260
+            },
+            {
+              "name": "Campbell Bay",
+              "id": 261
+            },
+            {
+              "name": "Chaw Nallaha",
+              "id": 262
+            },
+            {
+              "name": "Chingam Basti",
+              "id": 263
+            },
+            {
+              "name": "Chingen (incl.FC at Magar Nalla)",
+              "id": 264
+            },
+            {
+              "name": "Chota Enaka",
+              "id": 265
+            },
+            {
+              "name": "Chowra",
+              "id": 266
+            },
+            {
+              "name": "Dairkurat",
+              "id": 267
+            },
+            {
+              "name": "Dakhiyon (FC)",
+              "id": 268
+            },
+            {
+              "name": "Danlet",
+              "id": 269
+            },
+            {
+              "name": "Dogmar River",
+              "id": 270
+            },
+            {
+              "name": "DSS Colony",
+              "id": 271
+            },
+            {
+              "name": "Elahi/Ilhoya",
+              "id": 272
+            },
+            {
+              "name": "Galathia River (FC)",
+              "id": 273
+            },
+            {
+              "name": "Gandhi Nagar",
+              "id": 274
+            },
+            {
+              "name": "Gol Tikrey",
+              "id": 275
+            },
+            {
+              "name": "Govind Nagar",
+              "id": 276
+            },
+            {
+              "name": "Great Nicobar",
+              "id": 277
+            },
+            {
+              "name": "Hin-Pou-Chi",
+              "id": 278
+            },
+            {
+              "name": "Hoin incl. Ikuia",
+              "id": 279
+            },
+            {
+              "name": "Hokesiang",
+              "id": 280
+            },
+            {
+              "name": "In-Hig-Loi",
+              "id": 281
+            },
+            {
+              "name": "Indira Point",
+              "id": 282
+            },
+            {
+              "name": "Inlock/Infock",
+              "id": 283
+            },
+            {
+              "name": "Inlock/Pattia",
+              "id": 284
+            },
+            {
+              "name": "Inod",
+              "id": 285
+            },
+            {
+              "name": "Joginder Nagar",
+              "id": 286
+            },
+            {
+              "name": "Kasintung",
+              "id": 287
+            },
+            {
+              "name": "Katahu",
+              "id": 288
+            },
+            {
+              "name": "Kiyang",
+              "id": 289
+            },
+            {
+              "name": "Koe",
+              "id": 290
+            },
+            {
+              "name": "Kokeon",
+              "id": 291
+            },
+            {
+              "name": "Kondul",
+              "id": 292
+            },
+            {
+              "name": "Kopenheat",
+              "id": 293
+            },
+            {
+              "name": "Lanaya",
+              "id": 294
+            },
+            {
+              "name": "Lawful",
+              "id": 295
+            },
+            {
+              "name": "Laxmi Nagar",
+              "id": 296
+            },
+            {
+              "name": "Makhahu/Makachua",
+              "id": 297
+            },
+            {
+              "name": "Marine Colony",
+              "id": 298
+            },
+            {
+              "name": "Minlana/Minlan",
+              "id": 299
+            },
+            {
+              "name": "Navy Dera",
+              "id": 300
+            },
+            {
+              "name": "New Fishermen Colony",
+              "id": 301
+            },
+            {
+              "name": "Not yet named",
+              "id": 302
+            },
+            {
+              "name": "Not yet named",
+              "id": 303
+            },
+            {
+              "name": "Olinchi/Bombay",
+              "id": 304
+            },
+            {
+              "name": "Patatiya",
+              "id": 305
+            },
+            {
+              "name": "Patisang",
+              "id": 306
+            },
+            {
+              "name": "Pattia (Pulopattia)",
+              "id": 307
+            },
+            {
+              "name": "Pea",
+              "id": 308
+            },
+            {
+              "name": "Pehayo",
+              "id": 309
+            },
+            {
+              "name": "Phillow Bhabhi",
+              "id": 310
+            },
+            {
+              "name": "Pitayo",
+              "id": 311
+            },
+            {
+              "name": "Pulloullo/Puloulo",
+              "id": 312
+            },
+            {
+              "name": "Pulobaha",
+              "id": 313
+            },
+            {
+              "name": "Pulobaha/Pathathifen",
+              "id": 314
+            },
+            {
+              "name": "Pulobed",
+              "id": 315
+            },
+            {
+              "name": "Pulobed/Lababu",
+              "id": 316
+            },
+            {
+              "name": "Pulobha/Pulobahan",
+              "id": 317
+            },
+            {
+              "name": "Pulobhabi",
+              "id": 318
+            },
+            {
+              "name": "Pulokunji",
+              "id": 319
+            },
+            {
+              "name": "Pulomilo",
+              "id": 320
+            },
+            {
+              "name": "Pulopanja",
+              "id": 321
+            },
+            {
+              "name": "Pulopucca",
+              "id": 322
+            },
+            {
+              "name": "Pulotalia/Pulotohio",
+              "id": 323
+            },
+            {
+              "name": "Rajiv Nagar",
+              "id": 324
+            },
+            {
+              "name": "Ranganathan Bay",
+              "id": 325
+            },
+            {
+              "name": "Renguang",
+              "id": 326
+            },
+            {
+              "name": "Shastri Nagar",
+              "id": 327
+            },
+            {
+              "name": "Shompen hut",
+              "id": 328
+            },
+            {
+              "name": "Shompen Village-A",
+              "id": 329
+            },
+            {
+              "name": "Shompen Village-B",
+              "id": 330
+            },
+            {
+              "name": "Trinket Bay",
+              "id": 331
+            },
+            {
+              "name": "Vijay Nagar",
+              "id": 332
+            }
+          ]
+        },
+        {
+          "name": "Nancowry",
+          "id": 9,
+          "village": [
+            {
+              "name": "Alhiat",
+              "id": 333
+            },
+            {
+              "name": "Alhiloth",
+              "id": 334
+            },
+            {
+              "name": "Alhinpon",
+              "id": 335
+            },
+            {
+              "name": "Alhukheck",
+              "id": 336
+            },
+            {
+              "name": "Alips",
+              "id": 337
+            },
+            {
+              "name": "Alkripoh",
+              "id": 338
+            },
+            {
+              "name": "Alkun",
+              "id": 339
+            },
+            {
+              "name": "Alointung",
+              "id": 340
+            },
+            {
+              "name": "Aloora",
+              "id": 341
+            },
+            {
+              "name": "Aloorang",
+              "id": 342
+            },
+            {
+              "name": "Alpintung",
+              "id": 343
+            },
+            {
+              "name": "Alreak",
+              "id": 344
+            },
+            {
+              "name": "Alsama",
+              "id": 345
+            },
+            {
+              "name": "Altaful",
+              "id": 346
+            },
+            {
+              "name": "Altheak",
+              "id": 347
+            },
+            {
+              "name": "Babulane",
+              "id": 348
+            },
+            {
+              "name": "Bada Enaka",
+              "id": 349
+            },
+            {
+              "name": "Baloo Basthi",
+              "id": 350
+            },
+            {
+              "name": "Balu Basti",
+              "id": 351
+            },
+            {
+              "name": "Bengali",
+              "id": 352
+            },
+            {
+              "name": "Berainak/Badnak",
+              "id": 353
+            },
+            {
+              "name": "Bompoka Island",
+              "id": 354
+            },
+            {
+              "name": "Bumpal",
+              "id": 355
+            },
+            {
+              "name": "Champin",
+              "id": 356
+            },
+            {
+              "name": "Changup",
+              "id": 357
+            },
+            {
+              "name": "Chanol",
+              "id": 358
+            },
+            {
+              "name": "Chengtamilan",
+              "id": 359
+            },
+            {
+              "name": "Chingam Basti",
+              "id": 360
+            },
+            {
+              "name": "Chinlak",
+              "id": 361
+            },
+            {
+              "name": "Chiya",
+              "id": 362
+            },
+            {
+              "name": "Chonghipoh",
+              "id": 363
+            },
+            {
+              "name": "Chongkamong",
+              "id": 364
+            },
+            {
+              "name": "Chonsiyala",
+              "id": 365
+            },
+            {
+              "name": "Chota Enaka",
+              "id": 366
+            },
+            {
+              "name": "Chota Inak",
+              "id": 367
+            },
+            {
+              "name": "Chowra",
+              "id": 368
+            },
+            {
+              "name": "Chukmachi",
+              "id": 369
+            },
+            {
+              "name": "Daring",
+              "id": 370
+            },
+            {
+              "name": "DSS Colony",
+              "id": 371
+            },
+            {
+              "name": "E-Wall",
+              "id": 372
+            },
+            {
+              "name": "Enam",
+              "id": 373
+            },
+            {
+              "name": "Hakonhala",
+              "id": 374
+            },
+            {
+              "name": "Hindra",
+              "id": 375
+            },
+            {
+              "name": "Hindra",
+              "id": 376
+            },
+            {
+              "name": "Hinnunga",
+              "id": 377
+            },
+            {
+              "name": "Hintona",
+              "id": 378
+            },
+            {
+              "name": "Hitlat",
+              "id": 379
+            },
+            {
+              "name": "Hitui",
+              "id": 380
+            },
+            {
+              "name": "Hockook",
+              "id": 381
+            },
+            {
+              "name": "Hoinatai",
+              "id": 382
+            },
+            {
+              "name": "Hoipoh",
+              "id": 383
+            },
+            {
+              "name": "Hontona",
+              "id": 384
+            },
+            {
+              "name": "Hutnyak",
+              "id": 385
+            },
+            {
+              "name": "Inmae",
+              "id": 386
+            },
+            {
+              "name": "Inmae",
+              "id": 387
+            },
+            {
+              "name": "Itoi(HITUI)",
+              "id": 388
+            },
+            {
+              "name": "Jansin",
+              "id": 389
+            },
+            {
+              "name": "Japan Tikri",
+              "id": 390
+            },
+            {
+              "name": "Jhoola",
+              "id": 391
+            },
+            {
+              "name": "Kakana",
+              "id": 392
+            },
+            {
+              "name": "Kalara",
+              "id": 393
+            },
+            {
+              "name": "Kalasi",
+              "id": 394
+            },
+            {
+              "name": "Kalmenkam",
+              "id": 395
+            },
+            {
+              "name": "Kamorta/Kalatapu(Incl.Sanuh)",
+              "id": 396
+            },
+            {
+              "name": "Kamriak",
+              "id": 397
+            },
+            {
+              "name": "Kanahinot",
+              "id": 398
+            },
+            {
+              "name": "Kapanga",
+              "id": 399
+            },
+            {
+              "name": "Kapila",
+              "id": 400
+            },
+            {
+              "name": "Karahinpoh",
+              "id": 401
+            },
+            {
+              "name": "Karav",
+              "id": 402
+            },
+            {
+              "name": "Katahuwa",
+              "id": 403
+            },
+            {
+              "name": "Knot",
+              "id": 404
+            },
+            {
+              "name": "Kohreakap",
+              "id": 405
+            },
+            {
+              "name": "Kuikua",
+              "id": 406
+            },
+            {
+              "name": "Kuitasuk",
+              "id": 407
+            },
+            {
+              "name": "Kulatapangia",
+              "id": 408
+            },
+            {
+              "name": "Kumikia",
+              "id": 409
+            },
+            {
+              "name": "Kupinga",
+              "id": 410
+            },
+            {
+              "name": "Lanuanga",
+              "id": 411
+            },
+            {
+              "name": "Lapat",
+              "id": 412
+            },
+            {
+              "name": "Luxi",
+              "id": 413
+            },
+            {
+              "name": "Malacca",
+              "id": 414
+            },
+            {
+              "name": "Manjula",
+              "id": 415
+            },
+            {
+              "name": "Mapayala",
+              "id": 416
+            },
+            {
+              "name": "Maratapia",
+              "id": 417
+            },
+            {
+              "name": "Marine Colony",
+              "id": 418
+            },
+            {
+              "name": "Maru",
+              "id": 419
+            },
+            {
+              "name": "Masala Tapu",
+              "id": 420
+            },
+            {
+              "name": "Meenakshi Ram Nagar",
+              "id": 421
+            },
+            {
+              "name": "Mildera",
+              "id": 422
+            },
+            {
+              "name": "Minyuk",
+              "id": 423
+            },
+            {
+              "name": "Munak incl. Ponioo/Moul",
+              "id": 424
+            },
+            {
+              "name": "Mus",
+              "id": 425
+            },
+            {
+              "name": "Nancowry",
+              "id": 426
+            },
+            {
+              "name": "Neang",
+              "id": 427
+            },
+            {
+              "name": "Neeche Tapu",
+              "id": 428
+            },
+            {
+              "name": "New Fishermen Colony",
+              "id": 429
+            },
+            {
+              "name": "Nyicalang",
+              "id": 430
+            },
+            {
+              "name": "Ongulongho",
+              "id": 431
+            },
+            {
+              "name": "Payak",
+              "id": 432
+            },
+            {
+              "name": "Payuha",
+              "id": 433
+            },
+            {
+              "name": "Phillow Bhabhi",
+              "id": 434
+            },
+            {
+              "name": "Pilpilow",
+              "id": 435
+            },
+            {
+              "name": "Pulu",
+              "id": 436
+            },
+            {
+              "name": "Raihion",
+              "id": 437
+            },
+            {
+              "name": "Rajiv Nagar",
+              "id": 438
+            },
+            {
+              "name": "Ramzoo",
+              "id": 439
+            },
+            {
+              "name": "Reakomlong",
+              "id": 440
+            },
+            {
+              "name": "Safedbalu",
+              "id": 441
+            },
+            {
+              "name": "Safedbalu",
+              "id": 442
+            },
+            {
+              "name": "Sanaya",
+              "id": 443
+            },
+            {
+              "name": "Sonomkuwa",
+              "id": 444
+            },
+            {
+              "name": "Tahaila",
+              "id": 445
+            },
+            {
+              "name": "Tanae",
+              "id": 446
+            },
+            {
+              "name": "Tani",
+              "id": 447
+            },
+            {
+              "name": "Tapainy",
+              "id": 448
+            },
+            {
+              "name": "Tapiang",
+              "id": 449
+            },
+            {
+              "name": "Tapong incl. Kabila",
+              "id": 450
+            },
+            {
+              "name": "Tavakin",
+              "id": 451
+            },
+            {
+              "name": "Tillang Chong Island",
+              "id": 452
+            },
+            {
+              "name": "Trinket",
+              "id": 453
+            },
+            {
+              "name": "Uper Tapu",
+              "id": 454
+            },
+            {
+              "name": "Upper Katchal",
+              "id": 455
+            },
+            {
+              "name": "Vikas Nagar",
+              "id": 456
+            },
+            {
+              "name": "Vyavtapu",
+              "id": 457
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
